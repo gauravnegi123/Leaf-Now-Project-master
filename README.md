@@ -19,10 +19,6 @@ On Back-end part PHP with Xampp Hosting was implemented for storing user data in
 
 *htdocs folder contains account.html,account.css and account.js that are meant to be pulled and used via phpMyAdmin,Xampp host.*
 
-* Deployement<br>
-Netlify - https://leaf-now.netlify.app/ <br>
-Github pages - <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">Click Here</a><br>
-
 <b>SnapShots :<br><br>
 <img src="https://github.com/Aman-Yadav-1/Leaf-Now-Project/blob/master/snapshots/homepage.png" width="1000" height="550">
 <img src="https://github.com/Aman-Yadav-1/Leaf-Now-Project/blob/master/snapshots/main%20page%20outlook.png" width="1000" height="550">
@@ -33,4 +29,4 @@ Github pages - <a href="https://aman-yadav-1.github.io/Leaf-Now-Project/">Click 
 <img src="https://github.com/Aman-Yadav-1/Leaf-Now-Project/blob/master/snapshots/signin%20snapshot.png" width="1000" height="550">
 <img src="https://github.com/Aman-Yadav-1/Leaf-Now-Project/blob/master/snapshots/signup%20snapshot.png" width="1000" height="550">
 
-* made by Aman Yadav
+* made by Gaurav Negi
